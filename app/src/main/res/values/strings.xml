@@ -1,0 +1,14 @@
+<resources>
+<string name="app_name">P11 Reservation Enhanced</string>
+<string name="name">Enter your name</string>
+<string name="telephone">Telephone</string>
+<string name="size">Size</string>
+<string name="smoke">Smoking</string>
+<string name="reserve">Reserve</string>
+<string name="reset">Reset</string>
+<string name="etDate" />
+<string name="edTime" />
+<string name="tvDate">Day</string>
+<string name="tvTime">Time</string>
+    <string name="tvInfo" />
+</resources>
